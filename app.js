@@ -1,8 +1,1 @@
-App({
-  onLaunch() {
-    console.log('App launched');
-  },
-  globalData: {
-    userInfo: null
-  }
-});
+App({onLaunch() {console.log('App launched');}, globalData: {userInfo: null}});

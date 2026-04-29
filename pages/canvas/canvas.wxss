@@ -1,0 +1,15 @@
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+}
+.canvas-container {
+    width: 100%;
+    height: 100%;
+}
+.tool-panel {
+    display: flex;
+    justify-content: space-around;
+}
+button {
+    margin: 5px;
+}

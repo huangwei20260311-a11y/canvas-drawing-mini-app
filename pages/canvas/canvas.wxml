@@ -1,0 +1,12 @@
+<view class="toolbar">
+    <button bindtap="undo">Undo</button>
+    <button bindtap="save">Save</button>
+</view>
+<canvas canvas-id="myCanvas" style="border: 1px solid #000;"></canvas>
+<view class="tool-panel">
+    <button bindtap="usePen">Pen</button>
+    <button bindtap="useRectangle">Rectangle</button>
+    <button bindtap="useCircle">Circle</button>
+    <button bindtap="useLine">Line</button>
+    <button bindtap="useArrow">Arrow</button>
+</view>
